@@ -89,6 +89,7 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/hero-image.webp") no-repeat center center/cover;
+    position:relative;
     
 }
 
@@ -102,6 +103,7 @@ main {
     min-height: 200px;
     padding-top: 40px;
     padding-left: 10px;
+    position:absolute;
 }
 
 /* Footer */
